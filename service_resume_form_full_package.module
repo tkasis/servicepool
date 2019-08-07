@@ -1,0 +1,8 @@
+<?php
+
+/**
+ * @file
+ * Code for the service_resume_form_full_package feature.
+ */
+
+include_once 'service_resume_form_full_package.features.inc';
